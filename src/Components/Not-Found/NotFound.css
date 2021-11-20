@@ -1,0 +1,24 @@
+
+/* Not Found Style  */
+
+.error img{
+
+margin-left: 35%;
+
+
+align-items: center;
+
+}
+
+.error button{
+    width: 75px;
+    height: 35px;
+    font-size: 15px;
+    padding: 5px 15px;
+    background: rgb(245, 93, 93);
+    color :white;
+    border-radius: 10px;
+    border: tomato;
+    margin-left: 650px;
+    margin-bottom: 50px;
+}

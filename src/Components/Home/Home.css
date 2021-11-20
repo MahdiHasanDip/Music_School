@@ -1,0 +1,25 @@
+/* home style  */
+.top-erea{
+height: 505px;
+border: 1px solid lightgray;
+background-image: url(../../img/bg.png);
+
+
+
+
+}
+.top-erea h1{
+    font-size: 120px;
+    margin-top: 85px;
+    line-height: 30px;
+    
+}
+.end-area{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.end-area button{
+
+    margin-top: 25px;
+}

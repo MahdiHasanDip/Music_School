@@ -1,0 +1,55 @@
+/* Contact us style  */
+.contact-container{
+    text-align: center;
+    background-image: url(/src/img/2.png);
+ text-align: center;
+    width: 100%;
+    height: 400px;
+    color: rgb(1, 3, 3);
+  
+    
+}
+
+/* sign uf form  */
+
+.sign{
+
+margin-top: 50px;
+text-align: center;
+}
+
+
+.name{
+    background-color: rgb(245, 243, 243);
+    border: 1px solid lightgray;
+    width: 60%;
+    height: 50px;
+    margin: 10px;
+}
+.same{
+    background-color: rgb(245, 243, 243);
+    border: 1px solid lightgray;
+    width: 60%;
+    height: 50px;
+    margin: 10px;
+}
+.massage{
+    background-color: rgb(245, 243, 243);
+    border: 1px solid lightgray;
+    width: 60%;
+    height: 150px;
+}
+
+.my-btn{
+ margin-top: 10px;
+ width: 150px;
+ padding: 5px;
+ background: white;
+ border-radius: 20px;
+}
+
+.my-btn:hover{
+color: white;
+background: rgb(252, 75, 75);
+
+}

@@ -1,0 +1,43 @@
+
+/* Footer style  */
+
+.footer-are{
+color: rgb(206, 205, 203);
+background-color: black;
+height: 350px;
+
+}
+
+
+.footer-are ul li{
+    color: rgb(164, 164, 165);
+    text-decoration: none;
+    margin-left: 150px;
+    list-style: none;
+}
+
+.footer-are input{
+
+border:1px solid white;
+    width: 250px;
+    font-size: 20px;
+    border-radius: 10px;
+    
+}
+.footer-are button{
+    width: 75px;
+    height: 35px;
+    font-size: 15px;
+    padding: 5px 15px;
+    background: rgb(245, 93, 93);
+    color :white;
+    border-radius: 10px;
+    border: tomato;
+   
+}
+.copy{
+    margin-left: 600px;
+
+color: rgb(36, 34, 34);
+
+}
