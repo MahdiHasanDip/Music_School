@@ -9,7 +9,7 @@
 
 
 
-## Authors
+## Author
 
 - [@MahdiHasanDip](https://www.github.com/MahdiHasanDip)
 
